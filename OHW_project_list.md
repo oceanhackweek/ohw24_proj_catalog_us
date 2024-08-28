@@ -21,31 +21,32 @@ AODN portal: https://portal.aodn.org.au/search
 
 ## OHW22 Projects
 
-1. [Arctic observing data access and visualization](https://github.com/oceanhackweek/ohw22-proj-arcticdata): 
+1. [Arctic observing data access and visualization](https://github.com/oceanhackweek/ohw22-proj-arcticdata): used data from the [Distributed Biological Observatory (DBO)](https://www.pmel.noaa.gov/dbo/), [Arctic data](https://arcticdata.io/catalog/data),
+[EcoFOCI](https://www.ecofoci.noaa.gov/data-links), [Arctic Flux data from Saildrones](https://data.pmel.noaa.gov/pmel/erddap/search/index.html?page=1&itemsPerPage=1000&searchFor=Arctic+Flux+Data), and the [International Arctic Buoy Programme (IABP) Data](https://iabp.apl.uw.edu/). They might have used even more beyond this, and have details on their GH README.
 
-1. [Kerchunk! Bless you](https://github.com/oceanhackweek/ohw22-proj-kerchunk)
+1. [Kerchunk! Bless you](https://github.com/oceanhackweek/ohw22-proj-kerchunk): used data from [Himawari 8 Sea Surface Temperature](https://registry.opendata.aws/noaa-himawari/).
 
-1. [Mapping eddy flow structures using GCM-Filters](https://github.com/oceanhackweek/ohw22-proj-gcmfilters)
+1. [Mapping eddy flow structures using GCM-Filters](https://github.com/oceanhackweek/ohw22-proj-gcmfilters): used an NCAR dataset from the [Pangeo Catalog](https://catalog.pangeo.io/).
 
-1. [Ocean Database for South Atlantic](https://github.com/oceanhackweek/ohw22-proj_SA_ocean_db)
+1. [Ocean Database for South Atlantic](https://github.com/oceanhackweek/ohw22-proj_SA_ocean_db): used data from the [Brazilian National Buoy Program - PNBOIA](https://www.marinha.mil.br/chm/dados-do-goos-brasil/pnboia). 
 
-1. [Lightweight ocean passive acoustic data query](https://github.com/oceanhackweek/ohw22-proj-passive-acoustics-data-query)
+1. [Lightweight ocean passive acoustic data query](https://github.com/oceanhackweek/ohw22-proj-passive-acoustics-data-query): used data from Ocean Observatories Initative (OOI), National Centers for Environmental Information (NCEI), and Ocean Networks Canada (OCN)
 
-1. [XYZT - Streamline extraction of data](https://github.com/oceanhackweek/ohw22-proj-xyzt)
+1. [XYZT - Streamline extraction of data](https://github.com/oceanhackweek/ohw22-proj-xyzt): used data from [Copernicus](https://marine.copernicus.eu/) and the [EU MSFD](https://research-and-innovation.ec.europa.eu/research-area/environment/oceans-and-seas/eu-marine-strategy-framework-directive_en).
 
-1. [ENSO prediction using Deep Learning](https://github.com/oceanhackweek/ohw22-proj-ENSO_Prediction)
+1. [ENSO prediction using Deep Learning](https://github.com/oceanhackweek/ohw22-proj-ENSO_Prediction): used coarsened CESM2 Large Ensemble members (SST fields) from 1° to 3° resolution and used the first 10 of 100 CESM2 LE members. Maybe from a CMIP catalog, hard to tell.
 
-1. [Radar Doppler Spectra imaging data quality control](None)
+1. Radar Doppler Spectra imaging data quality control: missing gH repository for this project, need to search [OHW repo list](https://github.com/orgs/oceanhackweek/repositories).
 
-1. [Assessing ocean drivers of coastal physical processes (in Spanish)](https://github.com/oceanhackweek/ohw22-proj-oleaje-costeros)
+1. [Assessing ocean drivers of coastal physical processes (in Spanish)](https://github.com/oceanhackweek/ohw22-proj-oleaje-costeros): used buoy ADCP data and satellite data (links needed).
 
-1. [Nutrient Profile Clustering](https://github.com/oceanhackweek/ohw22-proj-clusters-nutrients)
+1. [Nutrient Profile Clustering](https://github.com/oceanhackweek/ohw22-proj-clusters-nutrients) - only has 1 commit, looks like it was never finished.
 
-1. [Unsupervised classification of Flow Cytometry TS data](https://github.com/oceanhackweek/ohw22-proj-flow-cytometry)
+1. [Unsupervised classification of Flow Cytometry TS data](https://github.com/oceanhackweek/ohw22-proj-flow-cytometry): used data from the [SeaFlow](https://seaflow.netlify.app/) flow cytometer on the [HOT-297](https://hahana.soest.hawaii.edu/hot/) cruise at Station ALOHA in the North Pacific.
 
-1. [SiMCosta Buoy](https://github.com/oceanhackweek/ohw22-proj-simcosta)
+1. [SiMCosta Buoy](https://github.com/oceanhackweek/ohw22-proj-simcosta): used [SiMCosta Datasets from Buoy SC-1](https://simcosta.furg.br/home)
 
-1. [Biofouled](https://github.com/oceanhackweek/ohw22-proj-biofouled)
+1. [Biofouled](https://github.com/oceanhackweek/ohw22-proj-biofouled): used oxygen data from OOI moorigs accessible. 
 
 1. [Langrangian dispersion](https://github.com/oceanhackweek/ohw22-proj-lagrange_points)
 
