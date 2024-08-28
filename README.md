@@ -29,7 +29,9 @@ We already have organized lists of projects from each year of OHW on the various
   
 ## Collaborators 
 
-- Derya Gumustel, Bigelow
-- Adam Kemberling, Bigelow
+- Derya Gumustel
+- Adam Kemberling
+- Kasanda Lassagne
+- Boris Shapkin
 - (other collaborators, please feel free to add yourselves here!)
 
