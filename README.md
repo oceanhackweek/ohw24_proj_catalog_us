@@ -35,3 +35,6 @@ We already have organized lists of projects from each year of OHW on the various
 - Boris Shapkin
 - (other collaborators, please feel free to add yourselves here!)
 
+## Files
+
+`OHW_project_list.md` is where I'm throwing every project from over the years. Each project's title links to the corresponding GitHub repository, and as many linked datasets as can be found will be listed with each project. 
