@@ -1,4 +1,4 @@
-# OHW Project Datasets of the Past
+# List of Past OHW Projects
 
 ## OHW23 Projects
 List of OHW23 projects and datasets used:
