@@ -61,3 +61,53 @@ AODN portal: https://portal.aodn.org.au/search
 1. [FrontFinder](https://github.com/oceanhackweek/ohw22-proj-front-finder)
 
 1. [Project Video Data Processing](https://github.com/oceanhackweek/ohw22-proj-video-data-processing)
+
+## OHW21 Projects
+1. [Characterising Acoustic Sound Scattering Layers](https://github.com/oceanhackweek/ohw21-proj-bioacoustics)
+1. [CMIP analysis ready data (ARD) workflow : turning big climate projection data into useful inputs for modelling or analysis](https://github.com/oceanhackweek/ohw21-proj-cmip-ard)
+1. [Matching open source environmental data to tagged species data ("Xtractopy")](https://github.com/oceanhackweek/OHW21_proj_tag_data)
+1. [Predicting ocean deep currents by satellite data](https://github.com/oceanhackweek/ohw21-proj-deep-currents)
+1. [Pull/Hack all ocean data repositories into a global searchable resource](https://github.com/oceanhackweek/metadata-repository)
+1. [Quality control of high frequency radar data](https://github.com/oceanhackweek/ohw21-proj-radar-qc)
+1. [High frequency radar surface current data comparisons](https://github.com/oceanhackweek/ohw21-proj-coastal-radar)
+1. [Use drone imagery of turtles, classify using neural network](https://github.com/oceanhackweek/ohw21-proj-drone-turtles)
+1. [Continuing OHW2020 project on OBIS and MPAs](https://github.com/oceanhackweek/ohw20-proj-species-marine-protected-areas)
+1. [Impact of Submarine Volcanism on Ocean World Habitability](https://github.com/oceanhackweek/ohw21-proj-biological-activity-driven-by-geologic-events)
+1. [Sampling high-resolution model output as if by an in situ platform (ship, glider, mooring, etc.)](https://github.com/oceanhackweek/ohw21-proj-model-subsampling)
+
+## OHW20 Projects
+1. [Project: Cloud-based Gap-free SST product](https://github.com/oceanhackweek/ohw20-proj-gapfree-sst)
+1. [Project: Spatio-temporal Mapping of Argo data](https://github.com/oceanhackweek/ohw20-proj-argo-mapping)
+1. [Project: Visualizing the shelfbreak front in the northern Mid-Atlantic Bight with OOI data](https://github.com/oceanhackweek/ohw20-proj-ooi-profiles-section)
+1. [Project: Use the package pyXpcm to identify ocean regions](https://github.com/oceanhackweek/ohw20-proj-pyxpcm)
+1. [Project: Ship track segmentor](https://github.com/oceanhackweek/ohw20-proj-shiptrack)
+1. [Project: Species assemblages in marine protected areas and associated species distribution models](https://github.com/oceanhackweek/ohw20-proj-species-marine-protected-areas)
+1. [Project: Marine Heat Wave (MHW) analysis with xarray](https://github.com/oceanhackweek/ohw20-proj-marine-heat-waves)
+1. [Project: Co-locators expansion](https://github.com/ioos/colocate)
+
+## OHW19 Projects
+[Project: TMIFVP](https://github.com/oceanhackweek/ohw19-projects-TMIVP)
+1. [Project: Trackpy](https://github.com/oceanhackweek/ohw19-projects-Trackpy)
+1. [Project: Isopy](https://github.com/oceanhackweek/DataAccess/tree/master/isopy)
+1. [Project: Underwater Currency Counter](https://github.com/oceanhackweek/ohw19-project-computer_vision_club)
+1. [Project: Co-Locators](https://github.com/oceanhackweek/ohw19-project-co_locators)
+1. [Project: 21st Century Prediction of Fish Larvae Catch Using ML](https://github.com/oceanhackweek/ohw19-project-CMIP6-larvae-ML)
+1. [Project: Modeling Volcano Deformation at Axial Seamount](None)
+1. [Project: DataStreamSync](https://github.com/oceanhackweek/ohw19-projects-DataStreamSync)
+1. [Project: MLQC](https://github.com/oceanhackweek/ohw19-project-mlqc-for-timeseries)
+1. [Project: Working with Chlorophyll Data from the Cloud](https://github.com/oceanhackweek/DataAccess/tree/master/Chlorophyll)
+1. [Project: Amazon Fires](None)
+
+## OHW18 Projects
+
+1. [Project: Echopype](https://github.com/oceanhackweek/ohw18_echopype)
+1. [Project: YodaIM](https://github.com/oceanhackweek/ohw18_yoda_im)
+1. [Project: Ocean Machine LEarning Toolkit (OMLET)](https://github.com/oceanhackweek/ohw18_omlet)
+1. [Project:  Southern Ocean](https://github.com/oceanhackweek/ohw18_southern-ocean)
+1. [Project:  Mussel Beach](https://github.com/oceanhackweek/ohw2018_musselbeach)
+1. [Project:  Sharknado](https://github.com/oceanhackweek/ohw18_sharknado)
+1. [Project:  Profiles](https://github.com/oceanhackweek/ohw18_profiles)
+1. [Project:  LTER Visualization](https://github.com/oceanhackweek/ohw_lter_vis)
+1. [Project:  OOI Data Validation](https://github.com/oceanhackweek/ohw2018_Data_Validation)
+1. [Project: Shallow Profiler Motion](https://github.com/oceanhackweek/ohw18_shallow_profiler_motion)
+1. [Project:  ERDDAP Explorer](https://github.com/oceanhackweek/ohw18_erddap-explorer)
