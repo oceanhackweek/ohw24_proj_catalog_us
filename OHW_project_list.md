@@ -1,4 +1,13 @@
-# List of Past OHW Projects
+# List of OHW Projects
+
+## OHW24 Projects
+List of OHW24 projects and datasets used:
+
+1. [Maine Icons: A Species Distribution Model and Educational Tool to Highlight Gulf of Maine Creatures](https://github.com/oceanhackweek/ohw24_proj_sdm_us/tree/main): used biological data from [Ocean Biodiversity Information System (OBIS)](https://obis.org/), environmental data from [Bio-ORACLE](https://www.bio-oracle.org/), and prediction data from the [Atmosphere/Ocean General Circulation Model (AOGCM)](https://gmao.gsfc.nasa.gov/products/climateforecasts/GEOS5/DESC/aogcm.php). 
+1. [PACE Tutorial](https://github.com/oceanhackweek/ohw24_proj_pace_us/tree/main): used date from the [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission](https://pace.oceansciences.org/access_pace_data.htm).
+1. [Extracting data using overlapping polygons from a data cube using Python](https://github.com/oceanhackweek/ohw24_proj_extract_cube_data_overlap_poly_au): used data from eReefs hydrodynamical model output at 1km cell resolution and GBRMPA, stored in s3 buckets. 
+1. [Micronekton Imagery Pipeline + AI](https://github.com/oceanhackweek/ohw24_proj_micronekton_img_pipeline_au): used PLAOS data: acoustic, imagery (vertical stereo cameras and oblique camera) and log data and oblique imagery from IN2020_V08 (links needed).
+1. [Message Me When It's Hot - The Marine Heatwave (MHW) Visualisation and Report App](https://github.com/oceanhackweek/ohw24_proj_MessageMeWhenItsHot_the_MHW_Vis-Report_app_au): used [IMOS Mooring data](https://imos.org.au/facility/national-mooring-network) - MHW data products and [Long-Term Time Series Product (LTS)](https://imos.org.au/news/aodn/new-user-friendly-time-series-products-from-the-imos-coastal-mooring-network) at Port Hacking and Maria Island - as well as IMOS FishSOOP data (NetCDF, on request from @mphemming) and [Satellite Sea Surface Temperature (SST)](https://thredds.aodn.org.au/thredds/catalog/IMOS/SRS/SST/ghrsst/L3S-1d/ngt/catalog.html).
 
 ## OHW23 Projects
 List of OHW23 projects and datasets used:
