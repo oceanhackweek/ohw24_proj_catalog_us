@@ -65,7 +65,7 @@ function myFunction() {
     </tr>
     <tr>
         <td>2023</td>
-      <td><a href="https://github.com/oceanhackweek/tutorials_marine_sdm" target="_blank">Marine SDM</a></td>
+      <td><a href="https://github.com/oceanhackweek/tutorials_marine_sdm" target="_blank">Marine Species Distribution Modeling (SDM)</a></td>
       <td>
         <a href="https://oceanhackweek.org/tutorials_marine_sdm/" target="_blank">OBIS via robis</a>,
         <a href="https://oceanhackweek.org/tutorials_marine_sdm/" target="_blank">SMDpredictor R package</a>
@@ -137,6 +137,76 @@ function myFunction() {
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_amplicon" target="_blank">Bioinformatic pipelines for standardized output</a></td>
       <td>
         <a href="https://pythonhosted.org/OBITools/wolves.html" target="_blank">OBITools reference database</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-arcticdata" target="_blank">Arctic observing data access and visualization</a></td>
+      <td>
+        <a href="https://www.pmel.noaa.gov/dbo/" target="_blank">Distributed Biological Observatory (DBO)</a>,
+        <a href="https://arcticdata.io/catalog/data" target="_blank">Arctic data</a>,
+        <a href="https://www.ecofoci.noaa.gov/data-links" target="_blank">EcoFOCI</a>,
+        <a href="https://data.pmel.noaa.gov/pmel/erddap/search/index.html?page=1&itemsPerPage=1000&searchFor=Arctic+Flux+Data" target="_blank">Arctic Flux data from Saildrones</a>,
+        <a href="https://iabp.apl.uw.edu/" target="_blank">International Arctic Buoy Programme (IABP) Data</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-kerchunk" target="_blank">Kerchunk! Bless you</a></td>
+      <td>
+        <a href="https://registry.opendata.aws/noaa-himawari/" target="_blank">Himawari 8 Sea Surface Temperature (SST)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-gcmfilters" target="_blank">Mapping eddy flow structures using GCM-Filters</a></td>
+      <td>
+        NCAR dataset from the <a href="https://catalog.pangeo.io/" target="_blank">Pangeo Catalog</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj_SA_ocean_db" target="_blank">Ocean Database for South Atlantic</a></td>
+      <td>
+        <a href="https://www.marinha.mil.br/chm/dados-do-goos-brasil/pnboia" target="_blank">Brazilian National Buoy Program - PNBOIA.</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-passive-acoustics-data-query" target="_blank">Lightweight ocean passive acoustic data query</a></td>
+      <td>
+      Ocean Observatories Initiative (OOI), National Centers for Environmental Information (NCEI), and Ocean Networks Canada (OCN) (links needed)
+        <!-- <a href="DATASET LINK" target="_blank">DATASET NAME</a> -->
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-xyzt" target="_blank">XYZT - Streamline extraction of data</a></td>
+      <td>
+        <a href="https://marine.copernicus.eu/" target="_blank">Copernicus</a>,
+        <a href="https://research-and-innovation.ec.europa.eu/research-area/environment/oceans-and-seas/eu-marine-strategy-framework-directive_en" target="_blank">EU Marine Strategy Framework Directive (MSFD)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-ENSO_Prediction" target="_blank">ENSO prediction using Deep Learning</a></td>
+      <td>
+        <a href="https://www.cesm.ucar.edu/models/cesm2" target="_blank">Community Earth System Model 2 (CESM2) Sea Surface Temperature (SST)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-oleaje-costeros" target="_blank">Assessing ocean drivers of coastal physical processes (in Spanish)</a></td>
+      <td>
+        Buoy ADCP data and satellite data (links needed)
+        <!-- <a href="DATASET LINK" target="_blank">DATASET NAME</a> -->
+      </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://github.com/oceanhackweek/ohw22-proj-flow-cytometry" target="_blank">Unsupervised classification of Flow Cytometry TS data</a></td>
+      <td>
+        <a href="https://seaflow.netlify.app/" target="_blank"> SeaFlow</a> flow cytometer on the <a href="https://hahana.soest.hawaii.edu/hot/" target="_blank"> HOT-297</a> cruise at Station ALOHA in the North Pacific
       </td>
     </tr>
   </tbody>
