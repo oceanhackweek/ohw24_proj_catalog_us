@@ -67,7 +67,43 @@ input[type="text"] {
   <tbody>
   <!-- Each table row will look like this: -->
     <tr>
-        <td>2023</td>
+      <td>2024</td>
+      <td><a href="https://github.com/oceanhackweek/ohw24_proj_sdm_us/tree/main" target="_blank">Maine Icons: A Species Distribution Model and Educational Tool to Highlight Gulf of Maine Creatures</a></td>
+      <td>
+        <a href="https://obis.org/" target="_blank">Ocean Biodiversity Information System (OBIS)</a>,
+        <a href="https://www.bio-oracle.org/" target="_blank">Bio-ORACLE</a>
+        <a href="https://gmao.gsfc.nasa.gov/products/climateforecasts/GEOS5/DESC/aogcm.php" target="_blank">Atmosphere/Ocean General Circulation Model (AOGCM)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><a href="https://github.com/oceanhackweek/ohw24_proj_pace_us/tree/main" target="_blank">PACE Tutorial</a></td>
+      <td>
+        <a href="https://pace.oceansciences.org/access_pace_data.htm" target="_blank">Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><a href="https://github.com/oceanhackweek/ohw24_proj_extract_cube_data_overlap_poly_au" target="_blank">Extracting data using overlapping polygons from a data cube using Python</a></td>
+      <td>
+        eReefs hydrodynamical model output and GBRMPA (s3 bucket links on GH repo)
+      </td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><a href="https://github.com/oceanhackweek/ohw24_proj_micronekton_img_pipeline_au" target="_blank">Micronekton Imagery Pipeline + AI</a></td>
+      <td>PLAOS data: acoustic, imagery (vertical stereo cameras and oblique camera) and log data and oblique imagery from IN2020_V08 (links needed)
+      </td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><a href="https://github.com/oceanhackweek/ohw24_proj_MessageMeWhenItsHot_the_MHW_Vis-Report_app_au" target="_blank">Message Me When It's Hot - The Marine Heatwave (MHW) Visualisation and Report App</a></td>
+      <td>
+        <a href="https://imos.org.au/facility/national-mooring-network" target="_blank">IMOS Mooring data</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_oil" target="_blank">Oil Spill Monitoring</a></td>
       <td>
         <a href="https://space.oscar.wmo.int/instruments/view/sar_2000" target="_blank">SAR-2000 imaging sensor</a>,
@@ -76,7 +112,7 @@ input[type="text"] {
       </td>
     </tr>
     <tr>
-        <td>2023</td>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/tutorials_marine_sdm" target="_blank">Marine Species Distribution Modeling (SDM)</a></td>
       <td>
         <a href="https://oceanhackweek.org/tutorials_marine_sdm/" target="_blank">OBIS via robis</a>,
