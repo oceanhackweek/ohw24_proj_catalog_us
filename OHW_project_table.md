@@ -4,9 +4,9 @@
 <script>
 function myFunction() {
   var input, filter, table, tr, td, i, j, txtValue;
-  input = document.getElementById("myInput");
+  input = document.getElementById("searchInput");
   filter = input.value.toUpperCase();
-  table = document.getElementById("myTable");
+  table = document.getElementById("projectTable");
   tr = table.getElementsByTagName("tr");
   for (i = 1; i < tr.length; i++) { // Start from 1 to skip the header row
     tr[i].style.display = "none"; // Hide all rows initially
@@ -24,26 +24,38 @@ function myFunction() {
 }
 </script>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for projects or datasets..." title="Type in a name">
+
 
 <style>
-#myTable {
+input[type="text"] {
+  width: 100%; /* Full width of the container */
+  padding: 10px; /* Match the padding of table cells */
+  margin-bottom: 10px; /* Space below the search bar before the table */
+  border: 1px solid black; /* Match the border of the table */
+  box-sizing: border-box; /* Ensures padding and border are included in the width */
+  font-family: Arial, sans-serif; /* Match the font */
+  font-size: 14px; /* Match the font size */
+}
+
+
+#projectTable {
   width: 100%;
   border-collapse: collapse;
 }
 
-#myTable th, #myTable td {
+#projectTable th, #projectTable td {
   border: 1px solid black;
   padding: 10px;
   text-align: left;
 }
 
-#myTable th {
+#projectTable th {
   background-color: #f2f2f2;
 }
 </style>
 
-<table id="myTable">
+<table id="projectTable">
+<input type="text" id="searchInput" onkeyup="myFunction()" placeholder="Search for projects or datasets..." title="Type in a name">
   <thead>
     <tr>
     <!-- Table headings go here: -->
