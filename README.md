@@ -32,6 +32,7 @@ We already have organized lists of projects from each year of OHW on the various
 - Adam Kemberling
 - Kasanda Lassagne
 - Boris Shapkin
+- Valentina Staneva
 - (other collaborators, please feel free to add yourselves here!)
 
 ## Files
