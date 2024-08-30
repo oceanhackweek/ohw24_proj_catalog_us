@@ -46,12 +46,16 @@ function myFunction() {
 <table id="myTable">
   <thead>
     <tr>
+    <!-- Table headings go here: -->
+      <th>Year</th>
       <th>Project</th>
       <th>Datasets</th>
     </tr>
   </thead>
   <tbody>
+  <!-- Each table row will look like this: -->
     <tr>
+        <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_oil" target="_blank">Oil Spill Monitoring</a></td>
       <td>
         <a href="https://space.oscar.wmo.int/instruments/view/sar_2000" target="_blank">SAR-2000 imaging sensor</a>,
@@ -60,6 +64,7 @@ function myFunction() {
       </td>
     </tr>
     <tr>
+        <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/tutorials_marine_sdm" target="_blank">Marine SDM</a></td>
       <td>
         <a href="https://oceanhackweek.org/tutorials_marine_sdm/" target="_blank">OBIS via robis</a>,
@@ -67,6 +72,7 @@ function myFunction() {
       </td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_sea_ice_oscillations" target="_blank">Inertial oscillations in the marginal ice zone</a></td>
       <td>
         <a href="https://lpdaac.usgs.gov/data/get-started-data/collection-overview/missions/s-npp-nasa-viirs-overview/" target="_blank">VIIRS instruments</a>,
@@ -75,16 +81,19 @@ function myFunction() {
       </td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_argo_ml" target="_blank">Machine learning for Argo Data QC</a></td>
       <td><a href="https://argopy.readthedocs.io/" target="_blank">Argo data accessed via argopy</a></td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23-proj-habitatmapping" target="_blank">Benthic habitat mapping</a></td>
       <td>
         <a href="https://github.com/oceanhackweek/ohw23-proj-habitatmapping/blob/main/Download%20data.ipynb" target="_blank">Geodata</a>
       </td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_fancymoorings" target="_blank">Mooring processing and data page (“fancy moorings”)</a></td>
       <td>
         <a href="https://catalogue.cioospacific.ca/dataset/ca-cioos_82656721-88e6-4543-90f1-edc35c0f42c9" target="_blank">CIOOS Moorings</a>,
@@ -93,6 +102,7 @@ function myFunction() {
       </td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_sst" target="_blank">SST spatial distribution prediction using machine learning</a></td>
       <td>
         <a href="https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1" target="_blank">MUR Satellite Data</a>,
@@ -100,6 +110,7 @@ function myFunction() {
       </td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23-proj-pamproject" target="_blank">Passive acoustics monitoring</a></td>
       <td>
         <a href="https://registry.opendata.aws/pacific-sound/" target="_blank">Pacific Sound</a>,
@@ -107,10 +118,12 @@ function myFunction() {
       </td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_drone_georef" target="_blank">Direct geo referencing drone images</a></td>
       <td>Drone survey carried out in 14 February (CSIRO Kensington)</td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_SAupwelling" target="_blank">Variability of the suppression of South Australian upwelling</a></td>
       <td>
         <a href="http://imos-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=IMOS/ANMN/SA/" target="_blank">SA coastal mooring data</a>,
@@ -120,6 +133,7 @@ function myFunction() {
       </td>
     </tr>
     <tr>
+      <td>2023</td>
       <td><a href="https://github.com/oceanhackweek/ohw23_proj_amplicon" target="_blank">Bioinformatic pipelines for standardized output</a></td>
       <td>
         <a href="https://pythonhosted.org/OBITools/wolves.html" target="_blank">OBITools reference database</a>
