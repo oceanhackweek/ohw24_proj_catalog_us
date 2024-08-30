@@ -37,3 +37,6 @@ We already have organized lists of projects from each year of OHW on the various
 ## Files
 
 `OHW_project_list.md` is where I'm throwing every project from over the years. Each project's title links to the corresponding GitHub repository, and as many linked datasets as can be found will be listed with each project. 
+
+## Chatbot (Experimental) 
+An [AI chatbot](https://huggingface.co/spaces/boryasbora/chatbot_ohw_projects) to assist OceanHackWeek participants with questions about projects, datasets, and methods.
