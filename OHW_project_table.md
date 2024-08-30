@@ -1,5 +1,6 @@
 # Searchable Table of Datasets
 
+
 <script>
 function myFunction() {
   var input, filter, table, tr, td, i, j, txtValue;
@@ -46,29 +47,83 @@ function myFunction() {
   <thead>
     <tr>
       <th>Project</th>
-      <th>Dataset</th>
+      <th>Datasets</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Oil Spill Monitoring</td>
-      <td>SAR-2000 imaging sensor on the second COSMO-SkyMed satellite called CSKS2</td>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_oil" target="_blank">Oil Spill Monitoring</a></td>
+      <td>
+        <a href="https://space.oscar.wmo.int/instruments/view/sar_2000" target="_blank">SAR-2000 imaging sensor</a>,
+        <a href="https://earth.esa.int/eogateway/missions/cosmo-skymed" target="_blank">COSMO-SkyMed satellite</a>,
+        <a href="https://space.oscar.wmo.int/satellites/view/csk_2" target="_blank">CSKS2</a>
+      </td>
     </tr>
     <tr>
-      <td>Marine SDM</td>
-      <td>OBIS via robis and environmental data via the SMDpredictor R package</td>
+      <td><a href="https://github.com/oceanhackweek/tutorials_marine_sdm" target="_blank">Marine SDM</a></td>
+      <td>
+        <a href="https://oceanhackweek.org/tutorials_marine_sdm/" target="_blank">OBIS via robis</a>,
+        <a href="https://oceanhackweek.org/tutorials_marine_sdm/" target="_blank">SMDpredictor R package</a>
+      </td>
     </tr>
     <tr>
-      <td>Inertial oscillations in the marginal ice zone</td>
-      <td>VIIRS instruments installed on the Joint Polar Satellite System; data from the Suomi-NPP and JPSS-1/NOAA-20 satellites was accessed from <a href="https://search.earthdata.nasa.gov/search" target="_blank" rel="noopener noreferrer">EarthDataSearch</a></td>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_sea_ice_oscillations" target="_blank">Inertial oscillations in the marginal ice zone</a></td>
+      <td>
+        <a href="https://lpdaac.usgs.gov/data/get-started-data/collection-overview/missions/s-npp-nasa-viirs-overview/" target="_blank">VIIRS instruments</a>,
+        <a href="https://www.nesdis.noaa.gov/our-satellites/currently-flying/joint-polar-satellite-system" target="_blank">Joint Polar Satellite System</a>,
+        <a href="https://search.earthdata.nasa.gov/search" target="_blank">EarthDataSearch</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/oceanhackweek/ohw23-proj-habitatmapping" target="_blank" rel="noopener noreferrer">Benthic habitat mapping</a></td>
-      <td>geodata</td>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_argo_ml" target="_blank">Machine learning for Argo Data QC</a></td>
+      <td><a href="https://argopy.readthedocs.io/" target="_blank">Argo data accessed via argopy</a></td>
     </tr>
     <tr>
-      <td>Machine learning for Argo Data QC</td>
-      <td>Argo data accessed via argopy</td>
+      <td><a href="https://github.com/oceanhackweek/ohw23-proj-habitatmapping" target="_blank">Benthic habitat mapping</a></td>
+      <td>
+        <a href="https://github.com/oceanhackweek/ohw23-proj-habitatmapping/blob/main/Download%20data.ipynb" target="_blank">Geodata</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_fancymoorings" target="_blank">Mooring processing and data page (“fancy moorings”)</a></td>
+      <td>
+        <a href="https://catalogue.cioospacific.ca/dataset/ca-cioos_82656721-88e6-4543-90f1-edc35c0f42c9" target="_blank">CIOOS Moorings</a>,
+        <a href="https://nwem.apl.washington.edu/erddap/index.html" target="_blank">NANOOS Moorings</a>,
+        <a href="https://oceanhackweek.org/ohw23_proj_fancymoorings/" target="_blank">Project website</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_sst" target="_blank">SST spatial distribution prediction using machine learning</a></td>
+      <td>
+        <a href="https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1" target="_blank">MUR Satellite Data</a>,
+        <a href="https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1" target="_blank">NASA website</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oceanhackweek/ohw23-proj-pamproject" target="_blank">Passive acoustics monitoring</a></td>
+      <td>
+        <a href="https://registry.opendata.aws/pacific-sound/" target="_blank">Pacific Sound</a>,
+        <a href="https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/e850651b-d65d-495b-8182-5dde35919616" target="_blank">IMOS Acoustic Data</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_drone_georef" target="_blank">Direct geo referencing drone images</a></td>
+      <td>Drone survey carried out in 14 February (CSIRO Kensington)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_SAupwelling" target="_blank">Variability of the suppression of South Australian upwelling</a></td>
+      <td>
+        <a href="http://imos-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=IMOS/ANMN/SA/" target="_blank">SA coastal mooring data</a>,
+        <a href="http://imos-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=IMOS/ANMN/NRS/NRSKAI/" target="_blank">SA NRS station data</a>,
+        <a href="https://imos.org.au/facilities/nationalmooringnetwork/samoorings" target="_blank">SA moorings summary</a>,
+        <a href="https://portal.aodn.org.au/search" target="_blank">AODN portal</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oceanhackweek/ohw23_proj_amplicon" target="_blank">Bioinformatic pipelines for standardized output</a></td>
+      <td>
+        <a href="https://pythonhosted.org/OBITools/wolves.html" target="_blank">OBITools reference database</a>
+      </td>
     </tr>
   </tbody>
 </table>
